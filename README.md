@@ -1,7 +1,7 @@
 <!-- 0. 参考：https://www.notion.so/5-GitHub-README-Qiita-5769421574aa4fa5be630c342e4feb0f -->
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=username" />
+  <img src="https://komarev.com/ghpvc/?username=githuno" />
 </div>
 
 
@@ -28,8 +28,8 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Apps" height="170px" src="https://nextrails-front-sp.vercel.app/folio" />
-<!--   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&theme=vue-dark&layout=compact" /> -->
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=username&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&theme=vue-dark&layout=compact" />
 </div>
 
 
