@@ -28,7 +28,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="640px" src="https://nextrails-front-sp.vercel.app/folio" />
+  <img alt="Apps" height="170px" src="https://nextrails-front-sp.vercel.app/folio" />
 <!--   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&theme=vue-dark&layout=compact" /> -->
 </div>
 
